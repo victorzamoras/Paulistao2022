@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color:#010088;
+	color:white;
+	font-family:"Arial";
+	font-weight:600;
+	text-align: center;
+}
+.GrupoA{
+	background-color:#096669;
+}
+.GrupoB{
+	background-color:#007728;
+}
+.GrupoC{
+	background-color:#750433;
+}
+.GrupoD{
+	background-color:#5c5c5c;
+}
+.grupos{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+.grupos table {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+img{
+	text-align: center;
+}
